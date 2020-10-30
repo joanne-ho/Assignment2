@@ -4,7 +4,7 @@
   "height": 600,
   "title": "Personal and Economic Freedom by Country 2017",
   "data": {
-    "url": "https://raw.githubusercontent.com/joanne-ho/FIT3179_Week10_HW_Part3/main/data/hfi_cc_2019_one_year.csv"
+    "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis2/data/hfi_cc_2019_one_year.csv"
   },
   "params": [
     {
