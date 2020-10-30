@@ -24,10 +24,9 @@
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
-      "bin": true,
       "field": "Human Freedom Score",
       "type": "quantitative",
-      "scale": {"type": "linear"}
+      "scale": {"type": "threshold", "domain": [2,4,6,8]}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
