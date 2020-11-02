@@ -1,8 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Human Freedom Index 2017",
-  "width": 500,
-  "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis1/js/ne_110m_admin_0_countries.topojson.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
