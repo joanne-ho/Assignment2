@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Top and Bottom Ranked Countries by Freedom of Expression 2017",
   "width": 200,
-  "height": 400,
+  "height": 350,
   "description": "Freedom of Expression Rankings 2017",
   "data": {
     "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis3/data/hfi_cc_2019_one_year.csv"
