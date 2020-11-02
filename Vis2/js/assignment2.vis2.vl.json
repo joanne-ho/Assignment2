@@ -1,7 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
-  "height": 400,
   "title": "Personal and Economic Freedom by Country 2017",
   "data": {
     "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis2/data/hfi_cc_2019_one_year.csv"
