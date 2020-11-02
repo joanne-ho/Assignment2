@@ -15,8 +15,8 @@
           null,
           "Europe",
           "Middle East & North Africa",
-          "East Asia || Oceania",
-          "South Asia || Caucasus & Central Asia",
+          "East Asia & Oceania",
+          "Caucasus, Central & South Asia",
           "Sub-Saharan Africa",
           "North America",
           "Latin America & the Caribbean"
@@ -26,7 +26,7 @@
           "Europe",
           "Middle East & North Africa",
           "East Asia & Oceania",
-          "South Asia, Caucasus & Central Asia",
+          "Caucasus, Central & South Asia",
           "Sub-Saharan Africa",
           "North America",
           "Latin America & the Caribbean"
@@ -74,19 +74,19 @@
               "Europe",
               "Middle East & North Africa",
               "East Asia & Oceania",
-              "South Asia, Caucasus & Central Asia",
+              "Caucasus, Central & South Asia",
               "Sub-Saharan Africa",
               "North America",
               "Latin America & the Caribbean"
             ],
             "range": [
               "#ab0c9f",
-              "#cf8d1b",
-              "#596b05",
-              "#2e31c1",
-              "#684d07",
-              "#0fceba",
-              "#3c73ba"
+              "#f27d01",
+              "#f51402",
+              "#59afb1",
+              "#258306",
+              "#0b2192",
+              "#adba12"
               
             ]
           }
@@ -138,7 +138,7 @@
         "color": {"value": "black"},
         "opacity": {
           "condition": {
-            "test": "datum['countries'] == 'China' || datum['countries'] == 'India' || datum['countries'] == 'Australia' || datum['countries'] == 'United States' || datum['countries'] == 'New Zealand'",
+            "test": "datum['countries'] == 'China' || datum['countries'] == 'India' || datum['countries'] == 'Australia' || datum['countries'] == 'United States' || datum['countries'] == 'New Zealand' || datum['countries'] == 'Egypt' || datum['countries'] == 'Syria'",
             "value": 1
           },
           "value": 0
