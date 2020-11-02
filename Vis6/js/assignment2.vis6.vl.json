@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Human Freedom Index Quartiles",
+  "width": 500,
+  "height": 350,
   "description": "Human Freedom Index Quartiles and Regions",
   "data": {
     "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis6/data/hfi_cc_2019.csv"
