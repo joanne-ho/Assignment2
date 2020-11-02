@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Top and Bottom Ranked Countries by Freedom of Religion",
-  "width": 400,
-  "height": 400,
+  "width": 200,
+  "height": 350,
   "description": "Safety and Security Rankings 2017",
   "data": {
     "url": "https://raw.githubusercontent.com/joanne-ho/Assignment2/main/Vis3/data/hfi_cc_2019_one_year.csv"
