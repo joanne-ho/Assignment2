@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Top and Bottom Ranked Countries by Freedom of Religion",
+  "title": "Top and Bottom Ranked Countries by Freedom of Religion 2017",
   "width": 200,
   "height": 350,
   "description": "Safety and Security Rankings 2017",
